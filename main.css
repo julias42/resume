@@ -1,0 +1,68 @@
+* {
+    margin: 0 auto;
+    padding: 0;
+}
+
+.wrapper {
+    background: rgb(255, 255, 255);
+    background: linear-gradient(0deg, rgba(255, 255, 255, 1) 0%, rgba(255, 255, 255, 1) 17%, rgba(219, 244, 249, 1) 86%);
+}
+
+.zagolovok {
+    text-align: center;
+
+}
+
+.header {
+    background-image: url(image/photo.png);
+    background-repeat: no-repeat;
+    background-position: right center;
+    background-size: 18%;
+    min-height: 250px;
+}
+
+
+.menu_header {
+    display: inline;
+    list-style-type: none;
+}
+
+.menu_phone {
+    text-decoration: none;
+}
+
+.menu_mail {
+    text-decoration: none;
+}
+
+.contacts {
+    margin: 0px;
+
+}
+
+.main_photo {
+    margin: 0px;
+}
+
+.education {
+    display: flex;
+}
+
+.education_left {
+    margin: 0px;
+}
+
+.ul_left {}
+
+.ul_left li {
+    padding-top: 15px;
+}
+
+.ul_right li {
+    padding-top: 15px;
+}
+
+.ul_right {
+    list-style-type: none;
+
+}
